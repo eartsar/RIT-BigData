@@ -1,0 +1,19 @@
+CVB Executions
+
+Run #1
+/usr/lib/mahout/trunk/bin/mahout seqdirectory -i /root/twitter_files/fragments/content_fragments/2013/5/4/23/ -o /root/twitter_files/seqfiles/23/ -c UTF-8
+
+/usr/lib/mahout/trunk/bin/mahout seq2sparse -i /root/twitter_files/seqfiles/23/ -o /root/twitter_files/vectors/23/ -wt TF -s 1 -md 50 -ow -x 99 -chunk 100 -n INF -nv
+
+/usr/lib/mahout/trunk/bin/mahout rowid -i /root/twitter_files/vectors23/tf-vectors/part-r-00000 -o /root/twitter_files/sparse_vectors_cvb/23/
+
+/usr/lib/mahout/trunk/bin/mahout cvb -i /root/twitter_files/sparse_vectors_cvb/23/matrix -dict /root/twitter_files/vectors/23/dictionary.file-0 -o /root/twitter_files/output/23k30/ -k 30 -x 20 -ntt 400
+
+Run #2
+/usr/lib/mahout/trunk/bin/mahout seqdirectory -i /root/twitter_files/fragments/content_fragments/2013/5/5/0/ -o /root/twitter_files/seqfiles/0/ -c UTF-8
+
+/usr/lib/mahout/trunk/bin/mahout seq2sparse -i /root/twitter_files/seqfiles/0/ -o /root/twitter_files/vectors/0/ -wt TF -s 1 -md 50 -ow -x 99 -chunk 100 -n INF -nv
+
+/usr/lib/mahout/trunk/bin/mahout rowid -i /root/twitter_files/vectors/0/tf-vectors/part-r-00000 -o /root/twitter_files/sparse_vectors_cvb/0/
+
+/usr/lib/mahout/trunk/bin/mahout cvb -i /root/twitter_files/sparse_vectors_cvb/0/matrix -dict /root/twitter_files/vectors/0/dictionary.file-0 -o /root/twitter_files/output/0k30/ -k 30 -x20 -ntt 400
