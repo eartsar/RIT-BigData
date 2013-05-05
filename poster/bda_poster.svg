@@ -401,9 +401,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="981.62662"
-     inkscape:cy="2552.6328"
+     inkscape:zoom="0.25"
+     inkscape:cx="1313.8814"
+     inkscape:cy="2588.3833"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -413,7 +413,7 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
      inkscape:snap-nodes="false">
@@ -449,6 +449,9 @@
        orientation="0,1"
        position="-165.23983,1927.798"
        id="guide6211" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid4109" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -597,7 +600,7 @@
          style="font-size:64px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
          id="flowPara12171">We are authors</flowPara></flowRoot>    <g
        id="g3597"
-       transform="translate(678,-47.869966)">
+       transform="translate(790.28427,28.72924)">
       <image
          width="98.941124"
          height="77.455841"
@@ -735,35 +738,32 @@
          id="tspan3974"
          x="1560"
          y="676" /></text>
-    <g
-       id="g4072"
-       transform="translate(-1014,68)">
-      <rect
-         transform="translate(0,-2187.641)"
-         ry="28"
-         rx="26"
-         y="304.49976"
-         x="1037.7435"
-         height="750.60596"
-         width="585.27637"
-         id="rect3180"
-         style="fill:none;stroke:#000000;stroke-width:6.17790174;stroke-miterlimit:4;stroke-dasharray:none" />
-      <text
-         transform="translate(0,-2187.641)"
-         sodipodi:linespacing="125%"
-         id="text3968"
-         y="278"
-         x="1270"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           y="278"
-           x="1270"
-           id="tspan3970"
-           sodipodi:role="line">JSON</tspan></text>
-      <image
-         width="558"
-         height="723"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAi4AAALTCAIAAAC+JB5PAAAAA3NCSVQICAjb4U/gAAAgAElEQVR4
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:6.17790174;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect3180"
+       width="585.27637"
+       height="750.60596"
+       x="23.74353"
+       y="-1667.1412"
+       rx="26"
+       ry="28" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="256"
+       y="-1687.641"
+       id="text3968"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3970"
+         x="256"
+         y="-1687.641"
+         style="font-size:32px;font-weight:bold">JSON</tspan></text>
+    <image
+       y="-1653.141"
+       x="37"
+       id="image4038"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAi4AAALTCAIAAAC+JB5PAAAAA3NCSVQICAjb4U/gAAAgAElEQVR4
 nOzdeUBU5foH8O85s7MOMGyyI8uAyCKupJhrmtiiN/VXtnrtZt26WlbW9aotluWS11zKm2Wldq3U
 W7lk5ZJpWu5JgiACggKCrAOzneX3xwAiwjAII4vP5x+H8855z3veM553nnPeOQ8TqQ0BIYQQ0nHY
 jm4AIYSQ2x0NRYQQQjoYDUWEEEI6GA1FhBBCOhgNRYQQQjoYDUWEEEI6GA1FhBBCOpj0FmzDd9jj
@@ -1777,9 +1777,71 @@ AqRK0cTws77+rwt+jQ08vnvnabJi9AAAvhCdBwCwrBjvoAMAQEPkBF17W5tm64XWVolGAQAxxQk6
 AIBlnKADAFhGKQIAWEYpAgBYRikCAFhGKQIAWEYpAgBYRikCAFhGKQIAWEYpAgBYRikCAFhGKQIA
 WPYPiBktkvHp4BYAAAAASUVORK5CYII=
 "
-         id="image4038"
-         x="1051"
-         y="-1869.141" />
-    </g>
+       height="723"
+       width="558" />
+    <image
+       y="-1451.7491"
+       x="627.84314"
+       id="image4086"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAL0AAAA5CAYAAABj9ir+AAAABHNCSVQICAgIfAhkiAAABIZJREFU
+eJzt3E9Im3ccx/FPJEZjEGRiGxARAx4a0M4V/8B6aTysMDst03Wd/6hL8jzWP5NSWWcPtZfukvXQ
+UVZ3iHTU0REPdZfqQHfoLlrB1kkdin8x0FUzxBmUGMxOupZOjcmT55fHfV5H//x+38MbeZSvjy4U
+CoVAFIb793+A1XoChYWFokeJRoFe9ASkHUtLXjx8+BPy8/MgSRIslhzRI0UkQfQApD3j47+jubkF
+Ltc3WF1dFT3OoTF6ikgoFMLg4BDsdic8nl5sbW2JHilsjJ6i4vf74XZ3o7GxCcPDI6LHCQujJ0V4
+vV50dt5ER8d1LCwsiB5nX4yeFDU29gzNza24d68Lfr9f9Dj/idGT4oLBIPr6fkZDw+d49KgP29vb
+okd6A6OnmFlb+xtdXd+jpeULTExMiB5nF6OnmJudnUV7+5fo7LyJly//FD0Ooyf1DA+PQJJkuN3d
+2NjYEDYHoydVBQIBeDy9cDicePy4HyK2YBg9CeHz/YU7d75FW9sVvHgxqerdjJ6EmpqawtWr7bh1
+62u8erWsyp2MnoQLhUJ48uQ3SJKMBw96EAgEYnofo6e4sbm5iZ6eH2G3OzE4OBizexg9xZ3l5WW4
+XLdx7dpXmJubU/x8Rk9x6/nzcTQ1Kb/CzOgpru2sMDscEjyeXgSDwajPZPSkCevr63C7uyHLlzEy
+8jSqsxg9aYrX68WNG53o6LiOxcXFiM5g9KRJY2PP0NTUEtEKM6MnzYp0hZnRk+btrDC3traFtcLM
+6OnImJmZCWuFWbfzsqe1tTUMDPyi2oCkPUNDv2J+fl70GGExGAwoL/8IFy9+CqPR+PqnCnajn59f
+QGPjZTETEsVIeno6Ll2qh81mg06nA4ACPt7Qkebz+eBy3UZb2xVMTv4BgM/09D8xPT2N/v4B+Hy+
+RL7Lko68U6fegyQ5kZWVBQBbjJ6OLLPZDFl2ori4+I2P7/4iGwwGsbKyImQ40oa7d7/D6Oio6DEO
+lJKSgtraGpSVfQi9/q2f6/++qluv18NsNqs7HWlKcnKy6BH2pdPpcPbsB6iurkZ6+jt7fh0fb+hI
+sFqtkGUncnNzD/xaRk+aduxYBux2O06ffn/n7/AHYvSkSQaDAVVVlaiqqkRSUtKhvpfRk6bodDrY
+bGdQX1+HjIyMiM5g9KQZFksOJElCfn5eVOcweop7aWlpsNsbXt+fiQqjp7iVmJiIiopyXLjwCUwm
+k2LnMnqKS8XFRXA47MjMzFT8bEZPcSU7OxuS5ERBwbsxu4PRU1wwmUyoqanea3VAUYyehEpISMC5
+c2Worv4MqampqtzJ6EmYvLw8yLITFotF1XsZPanObD4OWZbeWvlVC6Mn1RiNRtTV1ary3L4fRk8x
+F+7Kr1oYPcWU1XoCsiyFtfKrFkZPMRHJyq9aGD0pamflt7Ly47j9TytGT4opLbVFtfKrFkZPUcvJ
+yYEkOXHyZL7oUcLC6CliSq/8qoXR06Hp9XqcP1+h+MqvWhg9HUpRUSGcTkdMVn7VogfQKnoI0obS
+0jPHS0pK9n7xuzYs/QOUj1Z1aFFhmAAAAABJRU5ErkJggg==
+"
+       height="57"
+       width="189" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="732"
+       y="824"
+       id="text4089"
+       sodipodi:linespacing="125%"
+       transform="translate(0,-2187.641)"><tspan
+         sodipodi:role="line"
+         id="tspan4091"
+         x="732"
+         y="824" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4093"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(-282.6417,-2021.6998)"><flowRegion
+         id="flowRegion4095"><rect
+           id="rect4097"
+           width="1125.7141"
+           height="212.13203"
+           x="950.3515"
+           y="838.66534" /></flowRegion><flowPara
+         id="flowPara4099">For topic analysis on natural language text, only some of the fields are used. For our project, we use id_str for file fragmentation, the created_at timestamp for file binning, and the text and hashtags for analysis.</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="72"
+       y="-1747.641"
+       id="text4101"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4103"
+         x="72"
+         y="-1747.641"
+         style="font-size:48px">Anatomy of a Tweet</tspan></text>
   </g>
 </svg>
